@@ -1,0 +1,9 @@
+Mayank jindal 2410990450
+Changes required in memory game:
+
+Timer and Scoring System:
+Instead of having a fixed time, give points based on how quickly they finish, with bonus points for speed.
+
+Display a countdown timer to add pressure or introduce a "time trial" mode.
+
+Add a high-score table to encourage replaying the game.
