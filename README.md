@@ -14,4 +14,4 @@ Follow these steps to run the Memory Game project locally:
    ```bash
    git clone https://github.com/mayank2410990450/memory-game.git
 
-# first change in  main branch
+# first change in  conflict-demo branch
